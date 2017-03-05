@@ -1,5 +1,0 @@
-var s = document.getElementById("s");
-
-var go = 
-
-s.addEventListener("click",go);
